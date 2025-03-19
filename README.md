@@ -10,3 +10,11 @@ This project leverages Power BI and Python to analyze crime patterns in Washingt
 * Power BI – Interactive reports, DAX calculations, and data modeling.
 * Python  – Data preprocessing, visualization, and deep analysis.
 * DAX Measures – Custom ranking, dynamic parameters, and performance metrics.
+# Dashboard
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/69e0c921-a3c2-4f6a-81f5-0fe4d0528f8d)
+
+# Insights
+
+# Links
+[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
