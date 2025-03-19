@@ -14,7 +14,15 @@ This project leverages Power BI and Python to analyze crime patterns in Washingt
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/69e0c921-a3c2-4f6a-81f5-0fe4d0528f8d)
 
 # Insights
-
+* Total Cases: 3,867 recorded crimes, with 284 cases still open.
+* Most Common Crime: Theft was the most frequent crime, with 2,507 occurrences.
+* Crime Timing: Majority of crimes (45% or 1,663 cases) occurred in the evening.
+* Resolution Time: Case resolution time improved significantly, dropping from 85 hours last year to 17 hours.
+* Severity Breakdown:
+- High-severity crimes: 159 cases.
+- Violent crimes: 421 cases out of the total.
+* Reporting Delays: The average time taken to report a crime was 8 days.
+* Precinct Performance: Identified slow response zones and high-crime precincts to optimize policing strategies.
 # Links
 [![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
