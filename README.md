@@ -19,8 +19,8 @@ This project leverages Power BI and Python to analyze crime patterns in Washingt
 * Crime Timing: Majority of crimes (45% or 1,663 cases) occurred in the evening.
 * Resolution Time: Case resolution time improved significantly, dropping from 85 hours last year to 17 hours.
 * Severity Breakdown:
-- High-severity crimes: 159 cases.
-- Violent crimes: 421 cases out of the total.
+  * High-severity crimes: 159 cases.
+  * Violent crimes: 421 cases out of the total.
 * Reporting Delays: The average time taken to report a crime was 8 days.
 * Precinct Performance: Identified slow response zones and high-crime precincts to optimize policing strategies.
 # Links
