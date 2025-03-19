@@ -7,7 +7,7 @@ This project leverages Power BI and Python to analyze crime patterns in Washingt
 * 🔍 Top Crime Areas: Identifies high-crime PSAs and voting precincts, applying Top N filtering dynamically.
 * 🐍 Python Integration: Utilizes Python scripts for advanced data cleaning, statistical modeling, and anomaly detection.
 # Technologies Used:
-* Power BI – Interactive reports, DAX calculations, and data modeling.
+* Power BI, ZoomCharts – Interactive reports, DAX calculations, and data modeling.
 * Python  – Data preprocessing, visualization, and deep analysis.
 * DAX Measures – Custom ranking, dynamic parameters, and performance metrics.
 # Dashboard
