@@ -11,7 +11,10 @@ This project leverages Power BI and Python to analyze crime patterns in Washingt
 * Python  – Data preprocessing, visualization, and deep analysis.
 * DAX Measures – Custom ranking, dynamic parameters, and performance metrics.
 # Dashboard
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/69e0c921-a3c2-4f6a-81f5-0fe4d0528f8d)
+![Screenshot 2025-06-27 185226](https://github.com/user-attachments/assets/e31bc2fd-ab6e-467f-ab1e-97901dffc5dc)
+![Screenshot 2025-06-27 185420](https://github.com/user-attachments/assets/42a33bb3-f665-4a17-a67d-fea9b356d756)
+![Screenshot 2025-06-27 185427](https://github.com/user-attachments/assets/a5671f8c-6612-4edb-8d99-ab7d827fb59f)
+![Screenshot 2025-06-27 185434](https://github.com/user-attachments/assets/6c1067b1-941d-43d1-b1dc-8417ef1c7b3b)
 
 # Insights
 * Total Cases: 3,867 recorded crimes, with 284 cases still open.
